@@ -4,7 +4,8 @@ AL-MARID DDos  AL-MARID DDos is a packet flooder tool created for educational pu
 ## Download
 
 ```bash
-git clone https://github.com/shadowlord9900/AL-MARID-DDos.git
+git clone
+https://github.com/AL-MARID/AL-MARID-DDos.git
 cd AL-MARID-DDos
 unzip AL-MARID.zip
 cd AL-MARID
