@@ -6,7 +6,7 @@ Download.
 
 git clone 
 https://github.com/shadowlord9900/AL-MARID-DDos.git
- cd AL-MARID-DDos
- unzip AL-MARID.zip
- cd AL-MARID
- python3 main.py
+cd AL-MARID-DDos
+unzip AL-MARID.zip
+cd AL-MARID
+python3 main.py
